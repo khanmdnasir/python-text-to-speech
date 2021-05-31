@@ -1,0 +1,1 @@
+Hi, this is automatic text to speech conversion project. I have created this project using gTTs module and os module. gTTs means google text to speech. Thank you!
